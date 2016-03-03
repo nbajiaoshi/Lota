@@ -1,0 +1,33 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M   (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\cv\Win64\gameplayer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\cv\Win64\gameplayer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\cv\Win64\gameplayer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\cv\Win64\gameplayer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\cv\Win64\gameplayer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 5.404773 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 3168.
+Total: 4.083975 ms (FindLiveObjects: 0.102632 ms CreateObjectMapping: 0.059210 ms MarkObjects: 0.680530 ms  DeleteObjects: 2.705939 ms)
+
+Platform assembly: D:\cv\Win64\gameplayer_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

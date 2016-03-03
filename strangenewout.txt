@@ -1,0 +1,5289 @@
+--------------------------------------------------------Round:1
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+dead:44
+dead:45
+dead:46
+dead:47
+dead:48
+--------------------------------------------------------Round:2
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:3
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:4
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:5
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:6
+born:44
+born:45
+born:46
+born:47
+born:48
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:7
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:8
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:9
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:10
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:11
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:12
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:13
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:14
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 026****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:15
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 026****************************
+PullMonsterStrategy_0_0
+PullBow 41 326****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:16
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 026****************************
+PullMonsterStrategy_0_0
+PullBow 41 326****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:17
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 026****************************
+PullMonsterStrategy_0_0
+PullBow 41 326****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:18
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 026****************************
+PullMonsterStrategy_0_0
+PullBow 41 326****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:19
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:20
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:21
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 239 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:22
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:23
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:24
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:25
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:26
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:27
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:28
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 026 20
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:29
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:30
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:31
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:32
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:33
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(88,116)
+(92,116)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:34
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(84,116)
+(88,116)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:35
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(113,94)
+(116,96)
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(80,116)
+(84,116)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:36
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(112,90)
+(114,93)
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(77,115)
+(81,115)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:37
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(112,86)
+(112,90)
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,119)
+(78,116)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:38
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(111,83)
+(111,87)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:39
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(115,82)
+(113,85)
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,120)
+(76,116)
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:40
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(115,78)
+(115,82)
+PullMonsterStrategy_0_0
+PullBow 41 022 20
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:41
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(119,79)
+(116,79)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:42
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(118,82)
+(120,79)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:43
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(114,82)
+(118,82)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:44
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(117,78)
+(115,81)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:45
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(112,78)
+(116,78)
+PullMonsterStrategy_0_0
+PullBow 41 026****************************
+39 FightDragonMonsterStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightDragonMonsterStrategy
+43 FightDragonMonsterStrategy
+--------------------------------------------------------Round:46
+0
+0
+0
+0
+0
+FightDragonMonsterStrategy
+36****************************
+36****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,79)
+(113,79)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_3
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_3
+43 FightNormalMonsterStrategy_3
+--------------------------------------------------------Round:47
+0
+0
+0
+0
+0
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+1.38747
+Move:900
+4
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+1.38747
+Move:882
+4
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+1.38747
+Move:920
+4
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(120,79)
+(117,79)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightStrategy
+43 FightStrategy
+--------------------------------------------------------Round:48
+0
+0
+1
+0
+0
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:12440
+0.812013
+Move:0
+3
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11920
+0.812013
+Move:130
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11566
+1.39313
+Move:412
+3
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(119,82)
+(121,79)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightStrategy
+43 FightStrategy
+--------------------------------------------------------Round:49
+0
+0
+1
+0
+0
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.456095
+Move:13980
+4
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.456095
+Move:13442
+4
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.886373
+Move:148
+4
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 032 25
+PullMonsterStrategy_0_0
+PullBow 41 339 FightStrategy
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightStrategy
+43 FightStrategy
+--------------------------------------------------------Round:50
+0
+0
+1
+0
+1
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:12600
+0.474417
+Move:505
+4
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:12000
+0.474417
+Move:648
+4
+FightNormalMonsterStrategy_3
+36****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 240 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_3
+43 FightStrategy
+--------------------------------------------------------Round:51
+0
+0
+1
+0
+1
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:12977
+0.326381
+Move:1021
+4
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11360
+0.262812
+Move:15165
+4
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 140 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_3
+43 FightStrategy
+--------------------------------------------------------Round:52
+0
+0
+1
+0
+0
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11933
+0.249624
+Move:1545
+4
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.203713
+Move:15014
+4
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 040 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_3
+43 FightStrategy
+--------------------------------------------------------Round:53
+0
+0
+1
+0
+0
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.439628
+Move:22
+4
+FightNormalMonsterStrategy_3
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 040 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightStrategy
+--------------------------------------------------------Round:54
+0
+0
+1
+0
+0
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11866
+0.100401
+Move:1282
+4
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightStrategy
+--------------------------------------------------------Round:55
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(100,75)
+(96,75)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:56
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(104,75)
+(100,75)
+PullMonsterStrategy_0_0
+PullBow 41 026 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:57
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(108,75)
+(104,75)
+PullMonsterStrategy_0_0
+PullBow 41 026 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:58
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(112,75)
+(108,75)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:59
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(112,71)
+(112,75)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:60
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(115,75)
+(113,72)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:61
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:62
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:63
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 023 20
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(88,116)
+(92,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:64
+0
+0
+1
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(84,116)
+(88,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:65
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(80,116)
+(84,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:66
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(77,115)
+(81,115)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:67
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,119)
+(78,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:68
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,115)
+(76,119)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:69
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:70
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 022 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:71
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:72
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:73
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:74
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 239 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:75
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:76
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,88)
+(116,92)
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:77
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,84)
+(116,88)
+PullMonsterStrategy_0_0
+PullBow 41 326****************************
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:78
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,80)
+(116,84)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:79
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(112,80)
+(116,80)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:80
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,77)
+(113,79)
+PullMonsterStrategy_0_0
+PullBow 41 239 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:81
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+38****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:82
+0
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+23****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:83
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(115,79)
+(115,79)
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:84
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(123,79)
+(119,79)
+PullMonsterStrategy_0_0
+PullBow 41 239 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:85
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:86
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 032 25
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:87
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:88
+1
+0
+2
+0
+0
+FightNormalMonsterStrategy_0
+26****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 239 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:89
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:90
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:91
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 023 20
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:92
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 023 20
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:93
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:94
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:95
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+32****************************
+38****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:96
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+32****************************
+38****************************
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(88,116)
+(92,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:97
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+32****************************
+38****************************
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(84,116)
+(88,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:98
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+32****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(80,116)
+(84,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:99
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+32****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,116)
+(80,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:100
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+32****************************
+23****************************
+PullMonsterStrategy_1
+PullBow 40 023****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,112)
+(76,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:101
+1
+0
+2
+0
+1
+FightNormalMonsterStrategy_0
+23****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:102
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,112)
+(76,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:103
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 022 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:104
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:105
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:106
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:107
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 026****************************
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:108
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:109
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 339 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:110
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 239 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:111
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 139 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:112
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+21****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:113
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+21****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:114
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+21****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:115
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:116
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 026 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:117
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:118
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:119
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:120
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:121
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:122
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:123
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:124
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(88,116)
+(92,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:125
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(84,116)
+(88,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:126
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(80,116)
+(84,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:127
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 019****************************
+38****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(77,115)
+(81,115)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:128
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,119)
+(78,116)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:129
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 0PullMonster22(76,115)
+(76,119)
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:130
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 039 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:131
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+PullBow 41 022 20
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 PullMonsterStrategy_0_0
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:132
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 038****************************
+PullMonsterStrategy_0_0
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:133
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+32****************************
+PullMonsterStrategy_1
+PullBow 40 0FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:134
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(92,75)
+(96,75)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:135
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(92,71)
+(92,75)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:136
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+20****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(95,72)
+(91,72)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:137
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+20****************************
+20****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(98,71)
+(94,71)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:138
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+20****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(102,71)
+(98,71)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:139
+1
+1
+2
+1
+1
+FightNormalMonsterStrategy_0
+20****************************
+20****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(106,71)
+(102,71)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:140
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+20****************************
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(109,73)
+(106,71)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:141
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(111,74)
+(107,74)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:142
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(112,78)
+(110,75)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:143
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(113,75)
+(111,78)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:144
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(113,71)
+(113,75)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:145
+1
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster23(109,71)
+(113,71)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:146
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 023 20
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:147
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0FightNormalMonsterStrategy_1
+26****************************
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:148
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:149
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:150
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:151
+2
+1
+3
+1
+1
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,92)
+(116,96)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:152
+2
+1
+3
+1
+2
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,88)
+(116,92)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:153
+2
+1
+3
+1
+2
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,84)
+(116,88)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:154
+2
+1
+3
+1
+2
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(116,80)
+(116,84)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:155
+2
+1
+3
+1
+2
+FightNormalMonsterStrategy_0
+PullMonsterStrategy_1
+PullBow 40 0PullMonster32(112,80)
+(116,80)
+FightNormalMonsterStrategy_1
+39 FightNormalMonsterStrategy_0
+40 PullMonsterStrategy_1
+41 FightNormalMonsterStrategy_1
+42 FightNormalMonsterStrategy_0
+43 FightNormalMonsterStrategy_0
+--------------------------------------------------------Round:156
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+37****************************
+22****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:157
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+37****************************
+37****************************
+22****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:158
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+37****************************
+22****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:159
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:160
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:161
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:162
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:163
+2
+1
+3
+1
+2
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:164
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:165
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:166
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:167
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+21****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:168
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:169
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:170
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:171
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:172
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:173
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:174
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:175
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:176
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:177
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:178
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:179
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:180
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:181
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:182
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+38****************************
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:183
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:184
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:185
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:186
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:187
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:188
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:189
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+2
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:190
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+20****************************
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:191
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+21****************************
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:192
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:193
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:194
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:195
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:196
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:197
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:198
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:199
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:200
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+26****************************
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:201
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+38****************************
+26****************************
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:202
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+38****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:203
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:204
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+21****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:205
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:206
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:207
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+21****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:208
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+38****************************
+38****************************
+32****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:209
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+38****************************
+38****************************
+32****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:210
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+32****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:211
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+38****************************
+23****************************
+38****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:212
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+32****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:213
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:214
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:215
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:216
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+23****************************
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:217
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+23****************************
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:218
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+23****************************
+23****************************
+23****************************
+26****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:219
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:220
+2
+2
+3
+2
+2
+AssembleStrategy
+ASBegin
+15
+1
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:221
+3
+2
+3
+2
+2
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:19200
+Attack:0
+0.522462
+Move:2773
+1
+AssembleStrategy
+ASBegin
+12
+1
+39 FightStrategy
+40 AssembleStrategy
+41 FightStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:222
+3
+2
+3
+3
+2
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:13012
+0.284641
+Move:15520
+4
+38****************************
+AssembleStrategy
+ASBegin
+9
+1
+39 FightStrategy
+40 AssembleStrategy
+41 FightStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:223
+3
+2
+3
+3
+3
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:13707
+0.330499
+Move:2631
+4
+38****************************
+AssembleStrategy
+ASBegin
+9
+40 PushTower
+41 FightStrategy
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:224
+3
+2
+3
+3
+3
+38****************************
+39evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:13670
+0.182963
+Move:2965
+4
+PushTower
+39 FightStrategy
+40 PushTower
+41 FightStrategy
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:225
+3
+2
+3
+3
+3
+PushTower
+38****************************
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:226
+3
+2
+3
+3
+3
+PushTower
+38****************************
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:227
+3
+2
+3
+3
+3
+PushTower
+38****************************
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:228
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:229
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:230
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:231
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:232
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:233
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:234
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:235
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:236
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:237
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:238
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:239
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:240
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:241
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:242
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:243
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:244
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:245
+3
+2
+3
+3
+3
+PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+43 PushTower
+--------------------------------------------------------Round:246
+3
+2
+3
+3
+3
+PushTower
+ASBegin
+9
+0
+18****************************
+18****************************
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:247
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+18****************************
+18****************************
+18****************************
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:248
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+18****************************
+18****************************
+18****************************
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:249
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+18****************************
+18****************************
+18****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:250
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+11
+0
+18****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:251
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+11
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:252
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+11
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:253
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+11
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:254
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+14
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:255
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:256
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:257
+3
+2
+4
+3
+3
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:9120
+Attack:0
+0.190086
+Move:1760
+1
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 FightStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:258
+3
+2
+4
+3
+3
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:10625
+0.121669
+Move:14187
+4
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 FightStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:259
+3
+2
+3
+3
+3
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.291765
+Move:1651
+4
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:260
+3
+2
+3
+3
+3
+42evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:10461
+0.289782
+Move:1762
+4
+AssembleStrategy
+ASBegin
+13
+0
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 FightStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:261
+3
+2
+3
+3
+3
+AssembleStrategy
+ASBegin
+13
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:262
+3
+2
+3
+3
+3
+AssembleStrategy
+ASBegin
+15
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:263
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+17
+0
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:264
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+17
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:265
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:266
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:267
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:268
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:269
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:270
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:271
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:272
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:273
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:274
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:275
+3
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+18
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:276
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+2.61138
+Move:3560
+4
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:6480
+Attack:0
+2.61138
+Move:5286
+1
+AssembleStrategy
+ASBegin
+16
+0
+26****************************
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:277
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+1.11565
+Move:1434
+4
+43evaluate begin
+PiercingArrow:10834
+ArrowsRain:0
+Attack:12170
+1.11565
+Move:13841
+4
+AssembleStrategy
+ASBegin
+13
+0
+26****************************
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:278
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:11500
+ArrowsRain:19920
+Attack:13731
+1.55777
+Move:5571
+1
+43evaluate begin
+PiercingArrow:12142
+ArrowsRain:0
+Attack:13414
+2.05881
+Move:2698
+3
+AssembleStrategy
+ASBegin
+11
+0
+26****************************
+23****************************
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+--------------------------------------------------------Round:279
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:11461
+ArrowsRain:0
+Attack:13710
+1.52378
+Move:18900
+4
+43evaluate begin
+PiercingArrow:11461
+ArrowsRain:0
+Attack:12829
+1.52378
+Move:15544
+4
+AssembleStrategy
+ASBegin
+11
+0
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:280
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:10000
+ArrowsRain:0
+Attack:11467
+1.08419
+Move:1448
+3
+43evaluate begin
+PiercingArrow:12222
+ArrowsRain:0
+Attack:14174
+0.673509
+Move:490
+0
+AssembleStrategy
+ASBegin
+11
+0
+23****************************
+23****************************
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
+dead:44
+--------------------------------------------------------Round:281
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:10000
+ArrowsRain:0
+Attack:11467
+0.405797
+Move:1833
+0
+43evaluate begin
+PiercingArrow:12222
+ArrowsRain:0
+Attack:14402
+1.46273
+Move:1113
+3
+AssembleStrategy
+ASBegin
+11
+0
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:282
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:13409
+0.338671
+Move:2913
+4
+43evaluate begin
+PiercingArrow:12058
+ArrowsRain:0
+Attack:0
+0.843994
+Move:874
+0
+AssembleStrategy
+ASBegin
+11
+0
+26****************************
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+dead:44
+dead:46
+--------------------------------------------------------Round:283
+3
+2
+4
+3
+3
+40evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:12980
+0.488445
+Move:14841
+4
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.810329
+Move:540
+4
+AssembleStrategy
+ASBegin
+9
+0
+26****************************
+39 AssembleStrategy
+40 FightStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:284
+3
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.220949
+Move:2416
+4
+AssembleStrategy
+ASBegin
+9
+0
+26****************************
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:285
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:11467
+0.222813
+Move:2162
+4
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:286
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.192419
+Move:1426
+4
+AssembleStrategy
+ASBegin
+9
+0
+19****************************
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:287
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.194413
+Move:1633
+4
+AssembleStrategy
+ASBegin
+9
+0
+26****************************
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:288
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.196386
+Move:1352
+4
+AssembleStrategy
+ASBegin
+9
+0
+26****************************
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:289
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.198339
+Move:1681
+4
+AssembleStrategy
+ASBegin
+9
+0
+19****************************
+39 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 FightStrategy
+--------------------------------------------------------Round:290
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.31309
+Move:1398
+4
+AssembleStrategy
+ASBegin
+9
+19****************************
+19****************************
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:291
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.202184
+Move:1499
+4
+PushTower
+19****************************
+19****************************
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:292
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.204077
+Move:1391
+4
+PushTower
+19****************************
+19****************************
+19****************************
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:293
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.20595
+Move:1472
+4
+PushTower
+19****************************
+19****************************
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:294
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.207805
+Move:1391
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:295
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.209641
+Move:1544
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:296
+4
+2
+4
+3
+3
+43evaluate begin
+PiercingArrow:0
+ArrowsRain:0
+Attack:0
+0.211458
+Move:1323
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:297
+born:46
+4
+2
+4
+3
+4
+43evaluate begin
+PiercingArrow:10852
+ArrowsRain:0
+Attack:12181
+0.605201
+Move:1556
+0
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+43 FightStrategy
+--------------------------------------------------------Round:298
+4
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:299
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:300
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:301
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:302
+born:44
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:303
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:304
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:305
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:306
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:307
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:308
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:309
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:310
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:311
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:312
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:313
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:314
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:315
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:316
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:317
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:318
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:319
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:320
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:321
+6
+2
+4
+3
+4
+PushTower
+39 PushTower
+40 PushTower
+41 PushTower
+42 PushTower
+--------------------------------------------------------Round:322
+6
+2
+4
+3
+4
+PushTower
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+--------------------------------------------------------Round:323
+6
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+--------------------------------------------------------Round:324
+6
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+--------------------------------------------------------Round:325
+6
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+--------------------------------------------------------Round:326
+6
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+--------------------------------------------------------Round:327
+6
+2
+4
+3
+3
+AssembleStrategy
+ASBegin
+9
+0
+39 AssembleStrategy
+40 AssembleStrategy
+41 AssembleStrategy
+42 AssembleStrategy
+43 AssembleStrategy
